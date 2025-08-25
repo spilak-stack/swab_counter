@@ -51,7 +51,7 @@ Follow these steps to run the project locally.
 **1. Clone the Repository**
 ```bash
 git clone https://github.com/spilak-stack/swab_counter.git
-cd gesture_based_presentation
+cd swab_counter
 ```
 
 **2. Create and Activate Virtual Environment**
@@ -83,5 +83,6 @@ python main.py
 
 
 ## 📄 License
+
 
 This project is licensed under the MIT License.
